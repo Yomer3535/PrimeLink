@@ -1,24 +1,18 @@
-# Expo Router Example
+# PrimeLink 🚀
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+A Personalized Commitment & Idea Ecosystem.
 
-## Launch your own
+### 🛠 Status: Work In Progress (WIP)
+This project is currently under active development. The main focus is to allow users to track their daily commitments and receive personalized activity suggestions through a highly polished interface.
 
-[![Launch with Expo](https://github.com/expo/examples/blob/master/.gh-assets/launch.svg?raw=true)](https://launch.expo.dev/?github=https://github.com/expo/examples/tree/master/with-router)
+### ✨ Key Features
+- **Modern UI:** High-fidelity dark theme with custom visual elements.
+- **Timeline:** Intuitive calendar-based UI for seamless task and deadline tracking.
+- **Discovery Engine:** Personalized activity and challenge suggestions.
 
-## 🚀 How to use
+### 🚀 Tech Stack
+- React Native (Expo)
+- Clean Architecture principles
 
-```sh
-npx create-expo-app -e with-router
-```
-
-## Deploy
-
-Deploy on all platforms with Expo Application Services (EAS).
-
-- Deploy the website: `npx eas-cli deploy` — [Learn more](https://docs.expo.dev/eas/hosting/get-started/)
-- Deploy on iOS and Android using: `npx eas-cli build` — [Learn more](https://expo.dev/eas)
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+---
+*Development is ongoing...*
